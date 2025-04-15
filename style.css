@@ -1,0 +1,54 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #ffffff;
+    color: #000;
+}
+
+header {
+    background-color: #3c3b6e; /* azul escuro da bandeira */
+    color: white;
+    text-align: center;
+    padding: 2rem 1rem;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 3rem;
+}
+
+header p {
+    font-size: 1.2rem;
+}
+
+main {
+    padding: 2rem;
+}
+
+.services h2 {
+    color: #b22234; /* vermelho bandeira */
+}
+
+.services ul {
+    list-style: none;
+    padding: 0;
+}
+
+.services li {
+    background: #f0f0f0;
+    padding: 1rem;
+    margin-bottom: 0.5rem;
+    border-left: 5px solid #3c3b6e;
+}
+
+footer {
+    background-color: #b22234; /* vermelho bandeira */
+    color: white;
+    text-align: center;
+    padding: 1rem;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
